@@ -4,15 +4,15 @@
 
 sidebar:
     # Profile information
-    name: Will Rowe
-    tagline: Computational Biologist
+    name: Anna Oleksyeyenko
+    tagline: Junior Java Developer
     avatar: profile.png
     # Sidebar links
     email: w.rowe@bham.ac.uk
     website: willrowe.net
     linkedin: will-rowe-13219b136
-    github: will-rowe
-    twitter: '@wil_rowe'
+    github: oopsitsanna
+    instagram: '@viviangfern'
 
     languages:
       - idiom: English
