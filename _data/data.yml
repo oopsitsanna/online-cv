@@ -6,13 +6,13 @@ sidebar:
     # Profile information
     name: Anna Oleksyeyenko
     tagline: Junior Java Developer
-    #avatar: profile.png
+    avatar: profile.png
     # Sidebar links
     email: anna.viv.yen@gmail.com
     website: annagcom360.wordpress.com
     linkedin: anna-yen
     github: oopsitsanna
-    instagram: '@viviangfern'
+    instagram: 'viviangfern'
 
     languages:
       - idiom: English
@@ -34,13 +34,21 @@ sidebar:
     education: True
 
 education:
-    - degree: CoA in Computer Science
+    - degree: AS in Computer Science
       university: Sacramento City College
       time: 2017 - 2020
       details: |
-        Magdalene College, Cambridge, CB3 0AG
+        Sacramento City College, Sacramento, 1919 Spanos Ct
 
-        ‘Monitoring antibiotic resistance genes in the aquatic environment’
+        ‘Learning community’
+        
+    - degree: CoA in Web Development
+      university: Sacramento City College
+      time: 2017 - 2019
+      details: |
+        Sacramento City College, Sacramento, 1919 Spanos Ct
+
+        ‘Learning community’
 
     - degree: BA in Marketing
       university: Kyiv Economic Institute of Management
@@ -62,13 +70,12 @@ career-profile:
       data sketching methods and machine learning.
 
 experiences:
-    - role: Postdoctoral Research Associate
-      time: 2019 - present
-      company: University of Birmingham
+    - role: WFM Amazon Shopper
+      time: Feb 2020 - present
+      company: Amazon
       details: |
-        Working in the [Loman Lab](https://lab.loman.net/) on the [ARTIC network](http://artic.network/) project.
-        Projects include:
-        - developing software for real-time molecular epidemiology
+        Working under [Amazon](https://aboutamazon.com/) as a [Whole Foods](https://www.wholefoodsmarket.com/) shopper.
+        - developing customer service, manage apps, and scan bar codes; get used to a diverse and inclusive workplace.
 
     - role: Computational biologist
       time: 2017 - 2019
