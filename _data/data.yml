@@ -22,13 +22,16 @@ sidebar:
         level: GCSE
 
     interests:
+      - item: Traveling
+        link:
+        
       - item: Photography
         link: https://www.youtube.com/watch?v=2RsqfuvBddY
 
       - item: Swimming
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
     
     education: True
@@ -61,7 +64,7 @@ education:
 career-profile:
     title: Career Profile
     summary: |
-      I'm Will Rowe, a computational biologist working in microbial genomics.
+      I'm Anna Oleksyeyenko, a computational biologist working in microbial genomics.
 
       I write software to analyse metagenomic data.
       My main areas of interest are in identifying genetic
@@ -75,7 +78,7 @@ experiences:
       company: Amazon
       details: |
         Working under [Amazon](https://aboutamazon.com/) as a [Whole Foods](https://www.wholefoodsmarket.com/) shopper.
-        - developing customer service, manage apps, and scan bar codes; get used to a diverse and inclusive workplace.
+        - developing customer service skills, manage apps, and scan bar codes; get used to a diverse and inclusive workplace.
 
     - role: Computational biologist
       time: 2017 - 2019
