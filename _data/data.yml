@@ -34,21 +34,21 @@ sidebar:
     education: True
 
 education:
-    - degree: PhD in Microbial Genomics
-      university: University of Cambridge
-      time: 2011 - 2015
+    - degree: CoA in Computer Science
+      university: Sacramento City College
+      time: 2017 - 2020
       details: |
         Magdalene College, Cambridge, CB3 0AG
 
         ‘Monitoring antibiotic resistance genes in the aquatic environment’
 
-    - degree: BSc in Human Genetics
-      university: Newcastle University
-      time: 2007 - 2010
+    - degree: BA in Marketing
+      university: Kyiv Economic Institute of Management
+      time: 2003 - 2008
       details: |
-        University of Newcastle, Newcastle upon Tyne, NE1 7RU 
+        Kyiv Economic Institute of Management, Smolenska 33/31, 5565 
 
-        Human Genetics (2.i)
+        Department of Economics
 
 career-profile:
     title: Career Profile
