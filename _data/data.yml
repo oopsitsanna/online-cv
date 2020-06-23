@@ -66,9 +66,12 @@ career-profile:
     summary: |
       I'm Anna Oleksyeyenko, hard working and driven full stack developer with addiction to create the most elegant and functional solutions in modern web design.
 
-      I am currently a student at Sacramento City College and working towards a A.S. in Computer Science. Last year I obtained my Certificate of Achievement in Web Development.
+      I am currently a student at Sacramento City College and working towards an A.S. in Computer Science. 
+      Last year I obtained my Certificate of Achievement in Web Development.
+      
       I believe my courses in programming and web development
       have equipped me for joing an experienced team where I will take my place.
+      
       In addition to completed courses, I have gained experience in
       the business environment at DMS Market Research and Customer Experience (Kiev, Ukraine).
       I displayed skills such as developing and maintaining the client-business
@@ -85,31 +88,23 @@ experiences:
         Working under [Amazon](https://aboutamazon.com/) as a [Whole Foods](https://www.wholefoodsmarket.com/) shopper.
         - developing customer service skills, manage apps, and scan bar codes; get used to a diverse and inclusive workplace.
 
-    - role: Computational biologist
-      time: 2017 - 2019
-      company: UK Research and Innovation
+    - role: Back-of-the-house positions/ Customer Service Representative
+      time: 2018 - May 2020
+      company: Edible Arrangements
       details: |
-        Developing and implementing algorithms for the 
-        analysis of genomic and metagenomic data.
-        Projects included:
-        - computational methods for microbiome classification tasks
-        - identification of antibiotic resistance genes and mobile genetic elements
-        - metagenomic pipeline development
+          Planning and arranging fruit bouquets  under [Edible Arrangements](https://www.ediblearrangements.com/) 
+          - utilizing roprietary information, methods and procedures
+          - receiving deliveries
+          - providing all guests with a superior level of customer service
 
-    - role: Postdoctoral Research Associate
-      time: 2016 - 2017
-      company: University of Liverpool
+    - role: Client Manager
+      time: 2010 - 2014
+      company: DMS Market Research and Customer Experience, Kyiv, Ukraine
       details: |
-        Designing analysis pipelines, software and computational workflows 
-        to analyse, visualise and store large-scale genomic and transcriptomic 
-        data.
-
-    - role: Trainee Clinical Scientist
-      time: 2015 - 2016
-      company: National Health Service
-      details: |
-        Utilising bioinformatics and genomic sequencing to facilitate the 
-        identification of pathogenic variants in patient genome data.
+        - utilized SPSS to statistical analysis and MC Access to perform data reports 
+        - develop and maintain client-business environment 
+        - performed research to identify new potential clients 
+        - collaborated with team members to complete projects on time  
 
 publications:
     title: Grants, Software &amp; Publications
