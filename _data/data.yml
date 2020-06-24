@@ -138,13 +138,13 @@ publications:
         link: "https://github.com/will-rowe/groot"
         description: "a tool to type Antibiotic Resistance Genes (ARGs) in metagenomic samples (a.k.a. Resistome Profiling)."
 
-      - title: HULK
-        link: "https://github.com/will-rowe/hulk"
-        description: "a tool that creates small, fixed-size sketches from streaming microbiome sequencing data, enabling rapid metagenomic dissimilarity analysis."
+      - title: OptiVi Eye Care Optometry
+        link: "https://oopsitsanna.github.io/OptiVi-website/"
+        description: "The website created for optometry clinic."
 
       - title: Tom Hat
         link: "https://oopsitsanna.github.io/test-website/"
-        description: "A pipeline for Detecting Resistome Associated taXa"
+        description: "The website created for Ukrainian rock band"
 
     papers-intro: >
       Co-first author publications are indicated by *. Please visit [Google Scholar](https://scholar.google.co.uk/citations?user=sVMdRQMAAAAJ&hl=en) for the most current list.
