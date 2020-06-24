@@ -142,8 +142,8 @@ publications:
         link: "https://github.com/will-rowe/hulk"
         description: "a tool that creates small, fixed-size sketches from streaming microbiome sequencing data, enabling rapid metagenomic dissimilarity analysis."
 
-      - title: DRAX
-        link: "https://github.com/will-rowe/drax"
+      - title: Tom Hat
+        link: "https://oopsitsanna.github.io/test-website/"
         description: "A pipeline for Detecting Resistome Associated taXa"
 
     papers-intro: >
