@@ -112,7 +112,7 @@ experiences:
         - collaborated with team members to complete projects on time  
 
 publications:
-    title: Grantsyu, Software &amp; Publications
+    title: Grants, Software &amp; Publications
 
     grants:
       - description: BBSRC (CoI)
@@ -131,6 +131,10 @@ publications:
       Here are a selection of my most recent projects. Please click on the links to find out more or visit my [GitHub](https://github.com/oopsitsanna) page.
 
     software:
+      - title: Graphic Communication
+        link: "https://annagcom360.wordpress.com/"
+        description: "This web page I’ve designed to showcase different assignments that I have completed as part of GCOM360 Spring2019 semester."
+    
       - title: PHP Coding Work
         link: "https://oopsitsanna.github.io/php-class/"
         description: "There are two .html pages to illustrate the PHP coding work completion.
@@ -142,9 +146,9 @@ publications:
         link: "https://oopsitsanna.github.io/Designing-Accessible-Websites/"
         description: "This web pages I have designed to complete my class assignments for CISW 370 class.
         
-                    There are three pages -- Project 1, Project 2, and Final project.
+                    There are three pages - Project 1, Project 2, and Final project.
                     
-                    I was using the WAVE evaluation tool to evaluate the pages' accessibility./n 
+                    I was using the WAVE evaluation tool to evaluate the pages' accessibility. 
                     The screen reader program was reading the pages' content in the correct order. The structure of the pages is marked with the
                     standarts, so headings and paragraphs are read in a proper way."
 
