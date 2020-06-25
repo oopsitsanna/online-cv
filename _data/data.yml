@@ -113,23 +113,6 @@ experiences:
 
 publications:
     title: Software &amp; Professional Development
-    grants:
-      - description: BBSRC (CoI)
-        amount: £724612
-        notes: "Reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants"
-
-      - description: Dragons Den funding
-        amount: £4000
-        notes:  Institute of Integrative Biology funding scheme; competitively awarded during PostDoc
-        
-      - description: CodeCademy
-        amount: 2018
-        notes: "Online Courses in JavaScript, Node.js"
-
-      - description: Free Code Camp
-        amount: 2018
-        notes:  Online Courses in HTML5, CSS, React.js
-
     software-intro: >
       Here are a selection of my most recent projects. Please click on the links to find out more or visit my [GitHub](https://github.com/oopsitsanna) page.
     software:
@@ -161,6 +144,22 @@ publications:
       - title: Tom Hat
         link: "https://oopsitsanna.github.io/test-website/"
         description: "The website created for Ukrainian rock band"
+        grants:
+      - description: BBSRC (CoI)
+        amount: £724612
+        notes: "Reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants"
+
+      - description: Dragons Den funding
+        amount: £4000
+        notes:  Institute of Integrative Biology funding scheme; competitively awarded during PostDoc
+        
+      - description: CodeCademy
+        amount: 2018
+        notes: "Online Courses in JavaScript, Node.js"
+
+      - description: Free Code Camp
+        amount: 2018
+        notes:  Online Courses in HTML5, CSS, React.js
 
 teaching:
   title: Teaching  &amp; Engagement
