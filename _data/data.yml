@@ -118,11 +118,11 @@ publications:
         description: "This web page I've designed to showcase different assignments that I have completed as part of GCOM360 Spring2019 semester."
         
       - title: OptiVi Eye Care Optometry
-        link: "https://oopsitsanna.github.io/OptiVi-website/"
+        link: "https://github.com/oopsitsanna/OptiVi-website"
         description: "The website created for optometry clinic."
     
       - title: PHP Coding Work
-        link: "https://oopsitsanna.github.io/php-class/"
+        link: "https://github.com/oopsitsanna/php-class"
         description: "There are two .html pages to illustrate the PHP coding work completion.
                       This enclude a short paragraph summary for each exercise/lab, to explain
                       the purpose of each lab exercise completed. This is also includes
