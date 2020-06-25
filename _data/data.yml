@@ -87,15 +87,14 @@ experiences:
       time: Feb 2020 - present
       company: Amazon
       details: |
-        Working under [Amazon](https://aboutamazon.com/) as a [Whole Foods](https://www.wholefoodsmarket.com/) shopper.
-        - developing customer service skills, manage apps, and scan bar codes; get used to a diverse and inclusive workplace.
+        Working for [Amazon](https://aboutamazon.com/) as a [Whole Foods](https://www.wholefoodsmarket.com/) shopper.
+        - developing customer service skills, manage apps, and scan bar codes
 
     - role: Customer Service Representative
       time: 2018 - May 2020
       company: Edible Arrangements
       details: |
-          Planning and arranging fruit bouquets  under [Edible Arrangements](https://www.ediblearrangements.com/) 
-          - utilizing proprietary information, methods and procedures
+          Planning and arranging fruit bouquets  for [Edible Arrangements](https://www.ediblearrangements.com/)
           - receiving deliveries
           - providing all guests with a superior level of customer service
 
@@ -104,7 +103,7 @@ experiences:
       company: DMS Market Research and Customer Experience, Kyiv, Ukraine
       details: |
         Ensuring excellent customer service and client satisfaction for [DMS Market Research](http://dms.ltd.ua/#research)
-        - utilized SPSS to statistical analysis and MC Access to perform data reports 
+        - utilized Statistical Package for the Social Sciences (SPSS) to perform data reports 
         - develop and maintain client-business environment 
         - performed research to identify new potential clients 
         - collaborated with team members to complete projects on time  
@@ -116,7 +115,7 @@ publications:
     software:
       - title: Graphic Communication
         link: "https://annagcom360.wordpress.com/"
-        description: "This web page I’ve designed to showcase different assignments that I have completed as part of GCOM360 Spring2019 semester."
+        description: "This web page I've designed to showcase different assignments that I have completed as part of GCOM360 Spring2019 semester."
         
       - title: OptiVi Eye Care Optometry
         link: "https://oopsitsanna.github.io/OptiVi-website/"
@@ -126,7 +125,7 @@ publications:
         link: "https://oopsitsanna.github.io/php-class/"
         description: "There are two .html pages to illustrate the PHP coding work completion.
                       This enclude a short paragraph summary for each exercise/lab, to explain
-                      the purpose of each lab exercise completed. This is also include
+                      the purpose of each lab exercise completed. This is also includes
                       a link to the PHP code written."
 
       - title: Designing Accessible Websites
@@ -135,10 +134,8 @@ publications:
         
                     There are three pages - Project 1, Project 2, and Final project.
                     
-                    I was using the WAVE evaluation tool to evaluate the pages' accessibility. 
-                    The screen reader program was reading the pages' content in the correct order. The structure of the pages is marked with the
-                    standarts, so headings and paragraphs are read in a proper way."
-
+                    I used the WAVE evaluation tool to evaluate the pages' accessibility. 
+                    
       - title: Tom Hat
         link: "https://github.com/oopsitsanna/tom-hat-website"
         description: "The website created for Ukrainian rock band"
