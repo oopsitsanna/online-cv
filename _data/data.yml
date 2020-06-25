@@ -150,7 +150,7 @@ teaching:
   uni:
     - name: Oracle Academy Course
       description: Database Foundation 
-      date: 2018
+      date: 2019
     - name: CodeCademy
       description: Online Courses in JavaScript, Node.js
       date: 2018
@@ -171,16 +171,12 @@ skills:
         
       - name: Visualisation
         list: Photoshop , GIMP, AdobeXD, MovAvi
-        level: 90%
+        level: 88%
 
       - name: Databases
         list: MySQL, MongoDB, DBeaver 
         level: 85%
 
-      - name: Cloud computing
-        list: Docker, AWS
-        level: 75%
-
       - name: Web Accessibility Evaluation Tool
         list: WAVE, NVDA, Scanner
-        level: 70%
+        level: 78%
