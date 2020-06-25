@@ -3,7 +3,7 @@
 # Site Settings
 title: Anna Oleksyeyenko | CV
 #url: "https://willrowe.net"
-url: "https://annagcom360.wordpress.com/"
+#url: "https://annagcom360.wordpress.com/"
 baseurl: '/online-cv' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: orange # blue turquoise green berry orange ceramic
