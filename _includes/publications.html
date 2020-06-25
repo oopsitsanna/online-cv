@@ -10,6 +10,28 @@
     {{ publications.title }}
   </h2>
 
+  {% if publications.grants %}
+  <div class="skillset">
+      <div class="item">
+          <div class="meta">
+            <div class="upper-row">
+              <h3 class="job-title">GRANTS:</h3>
+            </div>
+          </div>
+        </div>
+        {% for grant in publications.grants %}
+        <div class="item">
+          <div class="upper-row">
+            <h3 class="level-title">{{ grant.description }}</h3>
+            <div class="time">{{ grant.amount }}</div>
+          </div>
+          <div class="company">{{ grant.notes }}</div>
+         </div>
+        {% endfor %}
+    </div>
+    <hr/>
+    {% endif %}
+
     {% if publications.software %}
     <div class="skillset">
         <div class="item">
@@ -37,27 +59,26 @@
       <hr/>
       {% endif %}
   
-  {% if publications.grants %}
-  <div class="skillset">
-      <div class="item">
-          <div class="meta">
-            <div class="upper-row">
-              <h3 class="job-title">PROFESSIONAL DEVELOPMENT:</h3>
-            </div>
+  
+    <div class="item">
+        <div class="meta">
+          <div class="upper-row">
+            <h3 class="job-title">PUBLICATIONS:</h3>
           </div>
         </div>
-        {% for grant in publications.grants %}
-        <div class="item">
-          <div class="upper-row">
-            <h3 class="level-title">{{ grant.description }}</h3>
-            <div class="time">{{ grant.amount }}</div>
-          </div>
-          <div class="company">{{ grant.notes }}</div>
-         </div>
-        {% endfor %}
-    </div>
-    <hr/>
-    {% endif %}
+      </div>
+      {% if publications.papers-intro %}
+      <div class="intro">
+        {{ publications.papers-intro | markdownify }}
+      </div>
+      {% endif %}
+  {% for publication in publications.papers %}
+  <div class="item">
+    <div class="publication-title">{{ publication.title }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
 
 </section><!--//section-->
 {% endif %}
