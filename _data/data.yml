@@ -142,14 +142,14 @@ publications:
                     standarts, so headings and paragraphs are read in a proper way."
 
       - title: Tom Hat
-        link: "https://oopsitsanna.github.io/test-website/"
+        link: "https://github.com/oopsitsanna/tom-hat-website"
         description: "The website created for Ukrainian rock band"
 
 teaching:
   title: Professional Development
   uni:
-    - name: Oracle
-      description: Online Courses
+    - name: Oracle Academy Course
+      description: Database Foundation 
       date: 2018
     - name: CodeCademy
       description: Online Courses in JavaScript, Node.js
@@ -165,22 +165,22 @@ skills:
         list: Java, C++, PHP, BASH
         level: 90%
         
+      - name: Web design
+        list: HTML5, CSS, JS, React.js
+        level: 90%
+        
       - name: Visualisation
         list: Photoshop , GIMP, AdobeXD, MovAvi
         level: 90%
 
-      - name: Web design
-        list: HTML5, CSS, JS, React.js
-        level: 90%
-
-      - name: Reproducibility
-        list: LSF, NextFlow, Conda, git 
-        level: 90%
+      - name: Databases
+        list: MySQL, MongoDB, DBeaver 
+        level: 85%
 
       - name: Cloud computing
         list: Docker, AWS
         level: 75%
 
-      - name: Machine Learning
-        list: RF, ANN, regression etc.
-        level: 60%
+      - name: Web Accessibility Evaluation Tool
+        list: WAVE, NVDA, Scanner
+        level: 70%
