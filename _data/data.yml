@@ -192,20 +192,20 @@ skills:
     title: Skills
     toolset:
       - name: Programming
-        list: Go, C, Python, BASH
+        list: Java, C++, PHP, BASH
+        level: 90%
+        
+      - name: Visualisation
+        list: Photoshop , GIMP, AdobeXD, MovAvi
+        level: 90%
+
+      - name: Web design
+        list: HTML5, CSS, JS, React.js
         level: 90%
 
       - name: Reproducibility
         list: LSF, NextFlow, Conda, git 
         level: 90%
-
-      - name: Visualisation
-        list: Jupyter, R, MatLab
-        level: 85%
-
-      - name: Web design
-        list: HTML5, CSS, Django, JS
-        level: 85%
 
       - name: Cloud computing
         list: Docker, AWS
