@@ -122,18 +122,14 @@ publications:
       - description: Dragons Den funding
         amount: £4000
         notes:  Institute of Integrative Biology funding scheme; competitively awarded during PostDoc
-
-      - description: GlaxoSmithKline
-        amount: £34000
-        notes: 2 rounds of competitive funding, awarded during PhD
         
-      - description: CodeCademy Online Courses in JavaScript, Node,js
+      - description: CodeCademy
         amount: 2018
-        notes: "Some description"
+        notes: "Online Courses in JavaScript, Node.js"
 
-      - description: Free Code Camp Online Courses in HTML5, CSS, React,js
+      - description: Free Code Camp
         amount: 2018
-        notes:  Some description
+        notes:  Online Courses in HTML5, CSS, React.js
 
     software-intro: >
       Here are a selection of my most recent projects. Please click on the links to find out more or visit my [GitHub](https://github.com/will-rowe) page.
