@@ -148,6 +148,9 @@ publications:
 teaching:
   title: Professional Development
   uni:
+    - name: Codelabs Developers
+      description: Android Kotlin Fundamentals
+      date: 2020
     - name: Oracle Academy Course
       description: Database Foundation 
       date: 2019
