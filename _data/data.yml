@@ -112,7 +112,7 @@ experiences:
         - collaborated with team members to complete projects on time  
 
 publications:
-    title: Software &amp; Professional Development
+    title: Software
     software-intro: >
       Here are a selection of my most recent projects. Please click on the links to find out more or visit my [GitHub](https://github.com/oopsitsanna) page.
     software:
@@ -157,32 +157,6 @@ teaching:
     - name: Free Code Camp
       description: Online Courses in HTML5, CSS, React.js
       date: 2018
-  engagement:
-    - name: Bioinformatics workshops
-      description: organised and ran weekly bioinformatics workshops at the Institute of Integrative Biology
-      date: 2016-2018
-    - name: HiPy
-      description: assisted at university-wide Python workshops as an instructor
-      date: 2016-2018
-  speaking:
-    - name: ABPHM
-      description: oral talk at the Applied Bioinformatics & Public Health Microbiology conference
-      date: 2019
-    - name: Doherty Institute
-      description: invited seminar at the Doherty Institute, University of Melbourne
-      date: 2018
-    - name: Society for Molecular Biology & Evolution
-      description: lightning talk for the Genome Evolution in Pathogen Transmission and Disease conference Kyoto
-      date: 2018
-    - name: Genome Science
-      description: oral talk for the Genome Science conference
-      date: 2018
-    - name: COMMET
-      description: invited oral talk for Community Network in Metagenomics conference
-      date: 2017
-    - name: BSAC conference
-      description: oral talk for British Society of Antimicrobial Chemotherapy confernce
-      date: 2016
 
 skills:
     title: Skills
