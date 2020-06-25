@@ -144,30 +144,19 @@ publications:
       - title: Tom Hat
         link: "https://oopsitsanna.github.io/test-website/"
         description: "The website created for Ukrainian rock band"
-        
-        grants:
-      - description: BBSRC (CoI)
-        amount: £724612
-        notes: "Reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants"
-
-      - description: Dragons Den funding
-        amount: £4000
-        notes:  Institute of Integrative Biology funding scheme; competitively awarded during PostDoc
-        
-      - description: CodeCademy
-        amount: 2018
-        notes: "Online Courses in JavaScript, Node.js"
-
-      - description: Free Code Camp
-        amount: 2018
-        notes:  Online Courses in HTML5, CSS, React.js
 
 teaching:
-  title: Teaching  &amp; Engagement
+  title: Professional Development
   uni:
-    - name: Genomics Masters module
-      description: designed and taught content (lectures and workshops) for a module of the LIFE708 Masters degree at the University of Liverpool
-      date: 2017
+    - name: Oracle
+      description: Online Courses
+      date: 2018
+    - name: CodeCademy
+      description: Online Courses in JavaScript, Node.js
+      date: 2018
+    - name: Free Code Camp
+      description: Online Courses in HTML5, CSS, React.js
+      date: 2018
   engagement:
     - name: Bioinformatics workshops
       description: organised and ran weekly bioinformatics workshops at the Institute of Integrative Biology
