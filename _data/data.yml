@@ -38,7 +38,7 @@ sidebar:
     education: True
 
 education:
-    - degree: AS in Computer Science
+    - degree: CoA in Computer Science
       university: Sacramento City College
       time: 2017 - 2020
       details: |
@@ -67,7 +67,7 @@ career-profile:
     summary: |
       My name is Anna Oleksyeyenko, a hard working and driven junior full stack developer with an addiction to modern web design.
 
-      I have an A.S. in Computer Science. 
+      I have a Certificate of Achievement in Computer Science. 
       Last year I obtained my Certificate of Achievement in Web Development.
       
       I believe my courses in programming and web development
@@ -149,6 +149,9 @@ teaching:
     - name: Oracle Academy Course
       description: Database Foundation 
       date: 2019
+    - name: Codeathon Losrios
+      description: Challenge for CS major students
+      date: 2018
     - name: CodeCademy
       description: Online Courses in JavaScript, Node.js
       date: 2018
