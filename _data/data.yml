@@ -9,8 +9,10 @@ sidebar:
     avatar: profile.jpg
     # Sidebar links
     phone: +1 646 925 1661
-    email: annaoleksyeyenko@gmail.com
-    website: https://annagcom360.wordpress.com/
+    email:
+      - item: anna.oleksyeyenko
+        link: anna.oleksyeyenko@gmail.com
+    # website: https://annagcom360.wordpress.com/
     linkedin: anna-yen
     github: oopsitsanna
     instagram: 'viviangfern'
